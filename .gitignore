@@ -1,0 +1,7 @@
+# Android build outputs
+*.apk
+*.aab
+app/build/
+build/
+手机app/
+EOF

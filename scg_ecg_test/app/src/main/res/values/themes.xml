@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--  DarkActionBar  NoActionBar 无标题栏-->
+    <style name="Theme.Scg_ecg_test" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="android:windowBackground">@color/white</item> <!--背景颜色-->
+        <item name="android:statusBarColor">@color/purple_700</item> <!--顶部状态栏-->
+        <item name="android:navigationBarColor">@color/gray</item> <!--底部返回栏-->
+        <item name="android:fontFamily">@font/arial</item>
+<!--        <item name="colorPrimaryVariant">@color/purple_700</item>-->
+        <item name="colorOnPrimary">@color/gray</item>
+<!--        &lt;!&ndash; Secondary brand color. &ndash;&gt;-->
+<!--        <item name="colorSecondary">@color/teal_200</item>-->
+<!--        <item name="colorSecondaryVariant">@color/teal_700</item>-->
+<!--        <item name="colorOnSecondary">@color/white</item>-->
+<!--        &lt;!&ndash; Status bar color. &ndash;&gt;-->
+<!--        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+
+    </style>
+</resources>
